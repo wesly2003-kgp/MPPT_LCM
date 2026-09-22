@@ -5,11 +5,11 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 6
 Title "MPPT 2420 HC"
-Date "2021-01-06"
+Date "2025-12-08"
 Rev "0.2.3"
-Comp "Copyright © 2020 Libre Solar Technologies GmbH"
+Comp ""
 Comment1 "Licensed under CERN-OHL-W version 2"
-Comment2 "Author: Martin Jäger"
+Comment2 "Author: Jayshri bej & Boomika"
 Comment3 ""
 Comment4 ""
 $EndDescr
