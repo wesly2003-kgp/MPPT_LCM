@@ -7,7 +7,7 @@ Sheet 6 6
 Title "MPPT 2420 HC"
 Date "2021-01-06"
 Rev "0.2.3"
-Comp "Copyright © 2020 Libre Solar Technologies GmbH"
+Comp ""
 Comment1 "Licensed under CERN-OHL-W version 2"
 Comment2 "Author: Jayshri & Boomika "
 Comment3 ""
