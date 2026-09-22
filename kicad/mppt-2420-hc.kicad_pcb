@@ -14,9 +14,9 @@
     (title "MPPT 2420 HC")
     (date 2021-05-03)
     (rev 0.2.3)
-    (company "Libre Solar Technologies GmbH")
-    (comment 1 "Licensed under CERN-OHL-W version 2")
-    (comment 2 "Design: Martin Jäger")
+    (company "")
+    (comment 1 "")
+    (comment 2 "Design: Jayshri Bej & Boomika")
   )
 
   (layers
