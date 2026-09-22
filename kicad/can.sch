@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 6
 Title "MPPT 2420 HC"
-Date "2021-01-06"
+Date "2025-12-06"
 Rev "0.2.3"
 Comp ""
 Comment1 "Licensed under CERN-OHL-W version 2"
