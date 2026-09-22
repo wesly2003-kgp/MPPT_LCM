@@ -9,7 +9,7 @@ Date "2021-01-06"
 Rev "0.2.3"
 Comp "Copyright © 2020 Libre Solar Technologies GmbH"
 Comment1 "Licensed under CERN-OHL-W version 2"
-Comment2 "Author: Martin Jäger"
+Comment2 "Author: Jayshri & Boomika "
 Comment3 ""
 Comment4 ""
 $EndDescr
