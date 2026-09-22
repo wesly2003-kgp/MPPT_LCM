@@ -9,7 +9,7 @@ Date "2025-12-08"
 Rev "0.2.3"
 Comp ""
 Comment1 "Licensed under CERN-OHL-W version 2"
-Comment2 "Author: Jayshri Bej & Boomika "
+Comment2 "Author: Jayshri & Boomika "
 Comment3 ""
 Comment4 ""
 $EndDescr
